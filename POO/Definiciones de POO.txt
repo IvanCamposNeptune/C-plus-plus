@@ -1,0 +1,18 @@
+/*POO
+					Conceptos Basicos 
+	*Clase: Es simplemente una "abstracción" que hacemos de nuestra experiencia sensible.
+	El ser humano tiende a agrupar seres o cosas -Objetos- con características similares en grupos -Clases-
+
+	*Objeto: Es un conjunto de atributos y metodos, un objeto se deriva de una clase, Es la instancia de una clase
+	Atributo(características) Metodo(Acciones)
+	
+	Abstracción:Proceso mental de extracción de las características esenciales de algo, ignorando los detalles superfluos.
+	
+	Encapsulación:Proceso por el que se ocultan los detalles del soporte de las características de una abstracción.
+
+	Herencia:La herencia es donde una clase nueva se crea a partir de una clase ya existente, heredando todos sus atributos y métodos.
+	
+	Polimorfismo:Aquella cualidad que poseen los objetos para responder de distinto modo ante el mismo mensaje.
+
+
+*/
